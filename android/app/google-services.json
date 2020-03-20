@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "808386685018",
+    "firebase_url": "https://vatandas-83dca.firebaseio.com",
+    "project_id": "vatandas-83dca",
+    "storage_bucket": "vatandas-83dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808386685018:android:f43f6e020ed62d7b",
+        "android_client_info": {
+          "package_name": "com.vatandas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808386685018-pnrjpo808o3vqu36vh4301lpl2s1ch98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAweiQNCGjCwdKSmEx1OIwDD0SaMgk9_oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808386685018-pnrjpo808o3vqu36vh4301lpl2s1ch98.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+1) React Navigation
+
+    Auth    => Login
+            => Register
+            => AuthLoading
+
+    App     => HomePage
+            => Notification
+            => ProfilePage
+
+
